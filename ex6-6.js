@@ -4,5 +4,4 @@ function taro65(){ who65='太郎';}
 function hanako65(){ who65='花子';}
 var who65='太郎';
 function taro65(){ alert('太郎が来た!');}{who66が来た='太郎';}
-var who65='花子';
 function hanako65(){ alert('花子が来た!');}{who66が来た='花子';}
